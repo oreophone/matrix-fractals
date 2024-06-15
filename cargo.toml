@@ -1,0 +1,13 @@
+[package]
+name = "matrix-impl"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+iced = { version = "0.8.0", features = ["canvas", "debug"] }
+libm = "0.2.6"
+"num" = "0.4.0"
+piston_window = "0.128.0"
+rand = "0.8.5"

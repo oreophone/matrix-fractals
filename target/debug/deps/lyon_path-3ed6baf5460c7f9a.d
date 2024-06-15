@@ -1,0 +1,13 @@
+/Users/mio/Documents/Rust/fractal-thing/target/debug/deps/liblyon_path-3ed6baf5460c7f9a.rmeta: /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/lib.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/builder.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/commands.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/events.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/iterator.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/path.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/path_buffer.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/polygon.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/private.rs
+
+/Users/mio/Documents/Rust/fractal-thing/target/debug/deps/lyon_path-3ed6baf5460c7f9a.d: /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/lib.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/builder.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/commands.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/events.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/iterator.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/path.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/path_buffer.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/polygon.rs /Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/private.rs
+
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/lib.rs:
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/builder.rs:
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/commands.rs:
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/events.rs:
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/iterator.rs:
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/path.rs:
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/path_buffer.rs:
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/polygon.rs:
+/Users/mio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lyon_path-1.0.5/src/private.rs:
